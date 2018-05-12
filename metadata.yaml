@@ -1,9 +1,13 @@
 _repo: De-Abbe-Constantijn_49828
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Seiffert, Wilhelmina
     gutenberg_agent_id: '45562'
     url: http://www.gutenberg.org/2009/agents/45562
+covers:
+- cover_type: archival
+  image_path: 49828-h/images/cover.jpg
 creator:
   author:
     agent_name: Halévy, Ludovic
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1344
     wikipedia: http://en.wikipedia.org/wiki/Ludovic_Halévy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49828#De-Abbe-Constantijn
 gutenberg_issued: '2015-08-30'
 gutenberg_type: Text
 identifiers:
